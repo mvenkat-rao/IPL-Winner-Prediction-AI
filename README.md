@@ -102,62 +102,15 @@ prediction = model.predict(X_test)
 
 ---
 
-# System Architecture Diagram
 
-```text
-+------------------+
-| IPL Dataset      |
-+------------------+
-          |
-          v
-+------------------+
-| Data Preprocessing|
-+------------------+
-          |
-          v
-+------------------+
-| Feature Selection |
-+------------------+
-          |
-          v
-+------------------+
-| ML Model Training |
-+------------------+
-          |
-          v
-+------------------+
-| Prediction Result |
-+------------------+
-```
 
----
 
 # Flowchart Diagram
 
-```text
-Start
-   |
-   v
-Collect IPL Data
-   |
-   v
-Clean Dataset
-   |
-   v
-Train ML Model
-   |
-   v
-Test Accuracy
-   |
-   v
-Predict Winner
-   |
-   v
-Display Result
-   |
-   v
-End
-```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c064353a-9308-46c6-b284-2a13a507238e" />
+
+
+
 
 ---
 
